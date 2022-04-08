@@ -1,0 +1,33 @@
+body {
+    background: rgb(109, 63, 107);
+}
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Moonrocks', cursive;font-size: 65px;
+    text-align: center;
+    color: rgb(28, 199, 99);
+}
+
+img {
+    position: absolute;
+    left: 300px;
+    border-radius: 45px;
+}
+
+.price {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Moonrocks', cursive;font-size: 45px;
+    color: rgb(106, 228, 157);
+    position: absolute;
+    left: 700px;
+}
+
+.novik {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Moonrocks', cursive;font-size: 45px;
+    color: rgb(106, 228, 157);
+    position: absolute;
+    left: 700px;
+    top: 600px;
+}
